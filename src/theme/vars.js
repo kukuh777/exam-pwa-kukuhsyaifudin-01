@@ -36,7 +36,7 @@ export const COLORS = {
     },
     neutral: {
         50: '#EBECEE',
-        100: '#121212',
+        100: '#C1C4C9',
         150: '#71717A',
         200: '#A3A8AF',
         250: '#515A69',
@@ -47,7 +47,7 @@ export const COLORS = {
         600: '#323B4A',
         700: '#272E3A',
         800: '#1F2937',
-        900: '#111827',
+        900: '#171B22',
         white: '#FFFFFF',
         black: '#000000',
         get DEFAULT() {
