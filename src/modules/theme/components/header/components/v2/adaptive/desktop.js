@@ -132,7 +132,7 @@ const DesktopHeader = (props) => {
 
     return (
         <div className={cx('desktop-header', 'transition-transform', 'delay-300', 'duration-500', 'ease-in-out', 'shadow-md')}>
-            <div className={cx('middle-header', 'tablet:border-b-[1.5px]', 'tablet:border-b-neutral-200', 'tablet:py-4')}>
+            <div className={cx('middle-header', 'tablet:py-4')}>
                 <div
                     className={cx(
                         'middle-header__wrapper',
